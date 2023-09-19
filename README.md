@@ -2,7 +2,7 @@
 Projeto de Teste
 ## Função Principal
 
-```
+``` dart
     void main() {
       print('hello');
     }
