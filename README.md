@@ -2,9 +2,9 @@
 Projeto de Teste
 ## Função Principal
 
-` void main() {
- print('hello');
-}`
+void main() {
+print('hello');
+}
 
     1. Crie o repositório
     2. Edite o arquivo README.md
