@@ -2,6 +2,6 @@
 Projeto de Teste
 ## Função Principal
 
-void main() {
+> void main() {
     print('hello');
 }
